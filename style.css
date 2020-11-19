@@ -1,0 +1,38 @@
+.extra__padding{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.shadow{
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+.review__box__padding{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.bg-color{
+    background-color: #994732;
+}
+.color{
+    color: #994732;
+}
+.card__review{
+    max-height: 350px;
+    min-height: 350px;
+}
+.tab__padding{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+/* active */
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    color: #5d3f3f!important;
+}
+/* itune__review__button */
+.itune__review__button{
+    margin-right: 10px;
+    margin-top: 10px;
+}
+/* card__review margin bottom*/
+.apps__img{
+    margin-bottom: 10px;
+}
